@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FoodMaps</string>
+    <string name="title_activity_first_map">FirstMap</string>
+</resources>
